@@ -7,7 +7,7 @@ A group of common server files that are used by the i2b2 cells.
 
 The following software and tools are required:
 
-- [OpenJDK 17](https://docs.microsoft.com/en-us/java/openjdk/download)
+- [OpenJDK 8](https://docs.microsoft.com/en-us/java/openjdk/download)
 - [Apache Maven 3.x.x](https://maven.apache.org/download.cgi)
 
 ### Building the JAR File
